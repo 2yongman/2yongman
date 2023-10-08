@@ -2,7 +2,13 @@
 ![2yongman's GitHub stats](https://github-readme-stats.vercel.app/api?username=2yongman)
 
 ### Tech
+![html](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![css](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![javascript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![typescript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![springboot](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 <!--
 **2yongman/2yongman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
